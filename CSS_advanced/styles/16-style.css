@@ -92,6 +92,12 @@ a[href]:active {
     text-transform: var(--section-tagline-transform);
 }
 
+.container {
+    font-weight: 960;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .section-title {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
