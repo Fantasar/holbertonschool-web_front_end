@@ -1,5 +1,5 @@
 html {
-    schroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -11,7 +11,7 @@ a {
 }
 
 .visually-hidden {
-    display : None;
+    display : none;
 }
 
 .card-category {
